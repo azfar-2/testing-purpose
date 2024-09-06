@@ -11,7 +11,6 @@ git remote set-url origin https://<your-token-paste-here>@github.com/mdazfar2/re
 ```bash.
 git reset --hard HEAD~1
 
-,
 
 
 # Installation Guide for NodeJS and NPM-.
