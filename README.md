@@ -19,6 +19,8 @@ git reset --hard HEAD~1
 
   ```bash
   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+//
   ```
 
 - ***After using above command you have to restart your Terminal***
