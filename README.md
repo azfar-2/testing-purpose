@@ -26,7 +26,7 @@ git reset --hard HEAD~1
   ```bash
   sudo reboot
   ```
-
+.
 - ***Download and install Node.js***
   ```bash
   nvm install 21
