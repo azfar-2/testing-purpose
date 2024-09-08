@@ -13,7 +13,7 @@ git reset --hard HEAD~1
 
 
 # Installation Guide for NodeJS and NPM-.
-.
+
 - ***Install NVM (Node Version Manager)***..
 
   ```bash
