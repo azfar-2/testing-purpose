@@ -28,13 +28,15 @@
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
 <img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></img>
-- updating soon
-- updating soon
-- updating soon
-- ...
-- ...
-- .
-- .
-- .
+- 🏢 I am a Full-Stack Developer at [`Learn & Build`](https://learnandbuild.in/).
+- 🏫 3<sup>rd</sup> year CSE Student at [`Rajasthan Technical Univercity`](https://www.rtu.ac.in/index/).
+- 🧑‍💻 Love Coding in C++ and Java mostly.
+- 🙂 10+ PRs merged as a Contributor in [`Hacktoberfest'24`](https://hacktoberfest.com/).
+- 🙂 Open Source Contributor at [`GSSoC'24`](https://gssoc.girlscript.tech/).
+- 🏆 Secured 125<sup>th</sup> Rank Globally & Received **Letter of Recommendation** in [`GSSoC'22`](https://gssoc.girlscript.tech/).
+- 🤓 Always try to `learn new things`.
+
+
+### work in progress...
 
 
