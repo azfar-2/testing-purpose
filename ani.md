@@ -298,6 +298,25 @@
 [![ANimesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansiace&theme=merko)](https://github.com/ansiace)
 
 
+![Animesh's profile activity](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ansiace&theme=darcula)
 
 
-### work in progress...
+
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/ansiace?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=yellow&dark=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/ansiace?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=yellow">
+      <img alt="" src="[https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=yellow]" >
+    </picture>
+</div>
+
+
+<div align="center">
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+### :heavy_check_mark: Want to know more about me, Please visit &nbsp; <a href = "https://ansiace.vercel.app"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> &nbsp; :100:
+
+### Show some ❤️ by starring some of my repositories !!
+</div>
