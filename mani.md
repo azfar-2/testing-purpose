@@ -80,7 +80,50 @@
 <a href = "https://codeforces.com/profile/manikant69"><img src = "https://img.shields.io/badge/-Codeforces-1F8ACB?style=oval-square&logo=Codeforces&logoColor=white"/></a>
 
 </p><br>
-<br/>
+
+<!------------------------------------------------------------------------------- Projects Section ------------------------------------------------------------------------------------------------ -->
 
 
+# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
+| Projects | Deployed Link | Repository | Tech Stack & Tools |
+|:---------|:-------------:|:----------:|:-------------------|
+| My Website | [view](https://manikant.vercel.app/) | [view](https://github.com/Manikant69/Portfolio) | `React.js` `Tailwind CSS` | 
+| Book Store App | [view](https://bookstore-v.vercel.app/) | [view](https://github.com/Manikant69/Book-store-app) | `React.js` `Tailwind CSS` |
+| Blog Website | - | [view](https://github.com/Manikant69/blog-website) | `EJS` `JavaScript` `tailwind CSS` |
+| Fashion Fusion Shopping | [view](https://fashion-fusion-shopping.vercel.app/) | [view](https://github.com/Manikant69/Fashion-fusion-shopping) | `JavaScript` `CSS3` `HTML5` |
+| Tic Tac Toe | [view](https://tic-tac-toe-game-rust-alpha.vercel.app/) | [view](https://github.com/Manikant69/tic-tac-toe-game) | `JavaScript` `CSS3` `HTML5` |
+| Rock Paper Scissor | - | [view](https://github.com/Manikant69/Rock-paper-scissors-game) | `JavaScript` `CSS3` `HTML5` |
+| Calculator | - | [view](https://github.com/Manikant69/calculator) | `JavaScript` `CSS3` `HTML5` |
+| Guess the Number | - | [view](https://github.com/Manikant69/Guess_the_number) | `JavaScript` `Bootstrap` `CSS3` `HTML5` |
+| Amazon Clone | - | [view](https://github.com/Manikant69/Amazon-clone) | `JavaScript` `Bootstrap` `CSS3` `HTML5` |
+
+<br>
+
+<!-- ---------------------------------------STATS------------------------------------------ --------------------------------------------------------------------------------------------- -->
+
+## Github Stats
+<p>
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=manikant69&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" 
+       alt="manikant69" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=manikant69&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" 
+       alt="manikant69" height="170" />
+</p>
+
+<img align="center"><img src="https://leetcode.com/manikant69/"><img width="48%" src="https://leetcode.card.workers.dev/manikant69?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+
+<br>
+
+
+<details>
+  <summary><strong>Trophies</strong></summary>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manikant69&theme=discord" alt="manikant69" /></a> </p>
+  </details>
+
+<br>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manikant69&theme=dark&hide_border=true"/>
