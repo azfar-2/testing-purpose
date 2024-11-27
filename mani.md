@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+![manicopy](https://github.com/user-attachments/assets/0d8c2bc4-74b8-4e95-aea1-198c3c490391)
 
-
+<br>
 
 <p align="center"> 
    <a href="https://manikant.vercel.app">
